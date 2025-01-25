@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My83 - Dashboard</title>
+    <link rel="stylesheet" href="lobby.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="transition.css">
+</head>
+<body class="modern-theme">
+    <header class="modern-header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">My83</div>
+                <nav>
+                    <button id="logoutButton" class="logout-button" onclick="navigateWithTransition('lobby.html')">Logout</button>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <h1 id="welcomeMessage"></h1>
+        <div class="user-info-container">
+            <div class="user-details">
+                <div id="userInfo" class="user-info">
+                    <!-- User information will be populated here -->
+                </div>
+            </div>
+        </div>
+
+        <section class="dashboard-content">
+            <div class="card">
+                <h2>Jadwal Piket Hari Ini</h2>
+                <div id="piketSchedule">
+                    <!-- Piket schedule will be populated here -->
+                </div>
+                <button id="showAllSchedule" class="view-more-button">
+                    <i class="fas fa-calendar-alt"></i> Lihat Jadwal Lainnya
+                </button>
+                <!-- Modal untuk menampilkan semua jadwal -->
+                <div id="scheduleModal" class="modal">
+                    <div class="modal-content">
+                        <span class="close">&times;</span>
+                        <h2>Jadwal Piket Lengkap</h2>
+                        <div id="fullSchedule"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <h2>Roster Pelajaran</h2>
+                <div id="classSchedule">
+                    <!-- Class schedule will be populated here -->
+                </div>
+            </div>
+            <div class="card">
+                <h2>Pengumuman Kelas</h2>
+                <ul id="announcements">
+                    <!-- Announcements will be populated here -->
+                </ul>
+            </div>
+            <div class="card">
+                <h2>Galeri Kelas</h2>
+                <div id="gallery" class="gallery-preview">
+                    <!-- Single preview image will be here -->
+                </div>
+                <a onclick="navigateWithTransition('gallery.html')" class="view-more">Lihat Gambar Lainnya!...</a>
+            </div>
+
+            <!-- Kelompok Belajar Card -->
+            <div class="card">
+                <h2>Kelompok Belajar</h2>
+                <div id="studyGroups">
+                    <!-- Study groups will be populated here -->
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer Section -->
+    <footer class="modern-footer">
+        <div class="container">
+            <p>
+                <i class="fas fa-copyright"></i> 2025 My83 - Kelas 8-3 | 
+                <i class="fas fa-code"></i> dengan <i class="fas fa-heart"></i> oleh Tim My83
+            </p>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="auth.js"></script>
+    <script src="logged_in_lobby.js"></script>
+    <script>
+        // Mencegah akses view source
+        document.addEventListener("contextmenu", (event) => {
+            event.preventDefault();
+        });
+
+        // Fungsi untuk transisi ke halaman galeri
+        function navigateWithTransition(url) {
+            const transitionEl = document.createElement('div');
+            transitionEl.className = 'loading-screen';
+            transitionEl.innerText = 'Please wait...'; // Pesan loading
+            document.body.appendChild(transitionEl);
+
+            // Pindah halaman setelah delay
+            setTimeout(() => {
+                window.location.href = url; // Pindah halaman
+            }, 2000); // Waktu delay sebelum berpindah
+        }
+    </script>
+</body>
+</html>
+

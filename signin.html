@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daftar - My83</title>
+    <link rel="stylesheet" href="auth.css">
+    <link rel="stylesheet" href="transition.css">
+    <script src="lobby.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>>>> Daftar My83 <<<</h1>
+        <div id="attemptCounter" class="attempt-counter">
+            Sisa Percobaan: 3
+        </div>
+        <form id="registerForm">
+            <div class="form-group">
+                <label for="referralCode">[*] Kode Referal Unik:</label>
+                <input type="text" id="referralCode" name="referralCode" required>
+                <div id="referralError" class="error-message"></div>
+            </div>
+            <div class="form-group">
+                <label for="nama">[*] Nama Lengkap:</label>
+                <input type="text" id="nama" name="nama" required>
+            </div>
+            <div class="form-group">
+                <label for="kelas">[*] Kelas:</label>
+                <input type="text" id="kelas" name="kelas" required>
+            </div>
+            <div class="form-group">
+                <label for="nomorUrut">[*] Nomor Urut:</label>
+                <input type="number" id="nomorUrut" name="nomorUrut" required>
+            </div>
+            <div class="form-group">
+                <label for="citaCita">[*] Cita-cita:</label>
+                <input type="text" id="citaCita" name="citaCita" required>
+            </div>
+            <div class="form-group">
+                <label for="email">[*] Email:</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+            <button type="submit">[ENTER] DAFTAR</button>
+        </form>
+        <p>Sudah punya akun? <a onclick="navigateWithLoading('login.html')">Daftar di sini</a></p>
+        <p style="color: #ff0000;">* Siapkan catatan untuk password dan username!</p>
+    </div>
+    <script src="auth.js"></script>
+</body>
+</html>

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My83 - Galeri Kelas</title>
+    <link rel="stylesheet" href="lobby.css">
+    <link rel="stylesheet" href="gallery.css">
+    <link rel="stylesheet" href="transition.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">My83</div>
+                <nav>
+                    <a onclick="navigateWithTransition('logged_in_lobby.html')" class="back-button">
+                        <i class="fas fa-arrow-left"></i> Kembali ke Dashboard
+                    </a>
+                    <button id="logoutButton" class="logout-button">Logout</button>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <h1>Galeri Kelas 8-3</h1>
+        <p class="gallery-intro">Kumpulan momen berharga dan kenangan indah kelas kita</p>
+        <div class="gallery-grid" id="fullGallery">
+            <!-- Gallery items will be populated here -->
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 My83 - Kelas 8-3</p>
+        </div>
+    </footer>
+
+    <script src="auth.js"></script>
+    <script src="gallery.js"></script>
+    <script>
+        // Tambahkan event listener untuk logout
+        document.getElementById('logoutButton').addEventListener('click', function() {
+            localStorage.removeItem("loggedInUser");
+            navigateWithTransition('lobby.html'); // Gunakan fungsi transisi untuk logout
+        });
+
+        // Mencegah akses view source
+        document.addEventListener("contextmenu", (event) => {
+            event.preventDefault();
+        });
+    </script>
+</body>
+</html>

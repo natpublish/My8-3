@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My83 - Galeri Publik</title>
+    <link rel="stylesheet" href="lobby.css">
+    <link rel="stylesheet" href="public_gallery.css">
+    <link rel="stylesheet" href="transition.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <a onclick="navigateWithTransition('lobby.html')" class="logo-link">
+                        <i class="fas fa-graduation-cap"></i> My83
+                    </a>
+                </div>
+                <nav class="nav-buttons">
+                    <a onclick="navigateWithTransition('lobby.html')" class="nav-button">
+                        <i class="fas fa-home"></i> Beranda
+                    </a>
+                    <a onclick="navigateWithTransition('login.html')" class="nav-button login-btn">
+                        <i class="fas fa-sign-in-alt"></i> Login
+                    </a>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="gallery-intro">
+            <h1><i class="fas fa-images"></i> Galeri Foto Kelas 8-3</h1>
+            <p>Kumpulan foto yang dapat di akses tanpa login./p>
+        </section>
+
+        <div class="gallery-grid" id="publicGallery">
+            <!-- Gallery items will be populated by JavaScript -->
+        </div>
+
+        <!-- Modal untuk preview foto -->
+        <div id="imageModal" class="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <img id="modalImage" src="" alt="">
+                <div class="modal-details">
+                    <h3 id="modalTitle"></h3>
+                    <p id="modalDescription"></p>
+                    <button id="downloadBtn" class="download-button">
+                        <i class="fas fa-download"></i> Unduh Foto
+                    </button>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>
+                <i class="fas fa-copyright"></i> 2025 My83 - Kelas 8-3 | 
+                <i class="fas fa-camera"></i> Galeri Publik
+            </p>
+        </div>
+    </footer>
+
+    <script src="public_gallery.js"></script>
+    <script>
+        // Tambahkan event listener untuk modal close
+        document.querySelector('.close').onclick = function() {
+            document.getElementById('imageModal').style.display = "none";
+        }
+    </script>
+</body>
+</html> 
