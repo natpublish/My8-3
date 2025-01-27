@@ -54,323 +54,398 @@ document.addEventListener("DOMContentLoaded", () => {
             filename: "PIC_1163.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1318.JPG",
-            title: "Kedatangan orang korea.",
-            description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1318.JPG"
-        },
-        {
-            url: "FOTO UMUM/PIC_1319.JPG",
-            title: "kedatangan orang korea 2 potrait",
-            description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1319.JPG"
-        },
-        {
-            url: "FOTO UMUM/PIC_1320.JPG",
-            title: "penampilan tamu orang korea.",
-            description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1320.JPG"
-        },
-        {
-            url: "FOTO UMUM/PIC_1321.JPG",
-            title: "penampilan tamu orang korea ",
-            description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1321.JPG"
-        },
-        {
-            url: "FOTO UMUM/PIC_1322.JPG",
-            title: "penampilan tamu orang korea",
-            description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1322.JPG"
-        },
-        {
-            url: "FOTO UMUM/PIC_1323.JPG",
-            title: "penampilan tamu orang korea",
-            description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1323.JPG"
-        },
-        {
-            url: "FOTO UMUM/PIC_1324.JPG",
-            title: "siswa yang sabar menonton",
-            description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1324.JPG"
-        },
-        {
-            url: "FOTO UMUM/PIC_1325.JPG",
-            title: "siswa yang sabar menonton",
-            description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1325.JPG"
-        },
-        {
-            url: "FOTO UMUM/PIC_1326.JPG",
+            url: "PIC_1155.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1326.JPG"
+            filename: "PIC_1155.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1327.JPG",
+            url: "PIC_1165.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1327.JPG"
+            filename: "PIC_1165.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1328.JPG",
+            url: "PIC_1328.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1328.JPG"
+            filename: "PIC_1328.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1329.JPG",
+            url: "PIC_1329.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1329.JPG"
+            filename: "PIC_1329.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1330.JPG",
+            url: "PIC_1330.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1330.JPG"
+            filename: "PIC_1330.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1340.JPG",
+            url: "PIC_1331.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1340.JPG"
+            filename: "PIC_1331.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1341.JPG",
+            url: "PIC_1332.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1341.JPG"
+            filename: "PIC_1332.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1342.JPG",
+            url: "PIC_1333.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1342.JPG"
+            filename: "PIC_1333.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1343.JPG",
+            url: "PIC_1334.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1343.JPG"
+            filename: "PIC_1334.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1345.JPG",
+            url: "PIC_1346.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1345.JPG"
+            filename: "PIC_1346.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1346.JPG",
+            url: "PIC_1345.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1346.JPG"
+            filename: "PIC_1345.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1347.JPG",
+            url: "PIC_1344.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1347.JPG"
+            filename: "PIC_1344.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1349.JPG",
+            url: "PIC_1347.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1349.JPG"
+            filename: "PIC_1347.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1350.JPG",
+            url: "PIC_1348.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1350.JPG"
+            filename: "PIC_1348.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1351.JPG",
+            url: "PIC_1349.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1351.JPG"
+            filename: "PIC_1349.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1352.JPG",
+            url: "PIC_1350.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1352.JPG"
+            filename: "PIC_1350.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1353.JPG",
+            url: "PIC_1351.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1353.JPG"
+            filename: "PIC_1351.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1354.JPG",
+            url: "PIC_1352.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1354.JPG"
+            filename: "PIC_1352.JPG"
         },
         {
-            url: "PIC_1213.JPG",
+            url: "PIC_1353.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "PIC_1213.JPG"
+            filename: "PIC_1353.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1355.JPG",
+            url: "PIC_1354.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1355.JPG"
+            filename: "PIC_1354.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1356.JPG",
+            url: "PIC_1355.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1356.JPG"
+            filename: "PIC_1355.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1357.JPG",
+            url: "PIC_1356.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1357.JPG"
+            filename: "PIC_1356.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1358.JPG",
+            url: "PIC_1357.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1358.JPG"
+            filename: "PIC_1357.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1359.JPG",
+            url: "PIC_1358.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1359.JPG"
+            filename: "PIC_1358.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1360.JPG",
+            url: "PIC_1359.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1360.JPG"
+            filename: "PIC_1359.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1361.JPG",
+            url: "PIC_1360.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1361.JPG"
+            filename: "PIC_1360.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1362.JPG",
+            url: "PIC_1361.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1362.JPG"
+            filename: "PIC_1361.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1363.JPG",
+            url: "PIC_1362.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1363.JPG"
+            filename: "PIC_1362.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1364.JPG",
+            url: "PIC_1363.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1364.JPG"
+            filename: "PIC_1363.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1365.JPG",
+            url: "PIC_1364.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1365.JPG"
+            filename: "PIC_1364.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1366.JPG",
+            url: "PIC_1365.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1366.JPG"
+            filename: "PIC_1365.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1367.JPG",
+            url: "PIC_1366.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1367.JPG"
+            filename: "PIC_1366.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1368.JPG",
+            url: "PIC_1367.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1368.JPG"
+            filename: "PIC_1367.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1369.JPG",
+            url: "PIC_1368.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1369.JPG"
+            filename: "PIC_1368.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1370.JPG",
+            url: "PIC_1369.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1370.JPG"
+            filename: "PIC_1369.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1371.JPG",
+            url: "PIC_1370.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1371.JPG"
+            filename: "PIC_1370.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1372.JPG",
+            url: "PIC_1371.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1372.JPG"
+            filename: "PIC_1371.JPG"
+        },
+         {
+            url: "PIC_1372.JPG",
+            title: "",
+            description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
+            filename: "PIC_1372.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1373.JPG",
+            url: "PIC_1373.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1373.JPG"
+            filename: "PIC_1373.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1374.JPG",
+            url: "PIC_1374.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1374.JPG"
+            filename: "PIC_1374.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1375.JPG",
+            url: "PIC_1375.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1375.JPG"
+            filename: "PIC_1375.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1376.JPG",
+            url: "PIC_1376.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1376.JPG"
+            filename: "PIC_1376.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1377.JPG",
+            url: "PIC_1377.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1377.JPG"
+            filename: "PIC_1377.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1378.JPG",
+            url: "PIC_1378.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1378.JPG"
+            filename: "PIC_1378.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1379.JPG",
+            url: "PIC_1379.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1379.JPG"
+            filename: "PIC_1379.JPG"
         },
         {
-            url: "FOTO UMUM/PIC_1380.JPG",
+            url: "PIC_1380.JPG",
             title: "",
             description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
-            filename: "FOTO UMUM/PIC_1380.JPG"
+            filename: "PIC_1380.JPG"
         },
+        {
+            url: "PIC_1381.JPG",
+            title: "",
+            description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
+            filename: "PIC_1381.JPG"
+        },
+        {
+            url: "PIC_1382.JPG",
+            title: "",
+            description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
+            filename: "PIC_1382.JPG"
+        },
+        {
+            url: "PIC_1383.JPG",
+            title: "",
+            description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
+            filename: "PIC_1383.JPG"
+        },
+        {
+            url: "PIC_1384.JPG",
+            title: "",
+            description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
+            filename: "PIC_1384.JPG"
+        },
+        {
+            url: "PIC_1385.JPG",
+            title: "",
+            description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
+            filename: "PIC_1385.JPG"
+        },
+        {
+            url: "PIC_1142.JPG",
+            title: "",
+            description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
+            filename: "PIC_1142.JPG"
+        },
+        {
+            url: "PIC_1143.JPG",
+            title: "",
+            description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
+            filename: "PIC_1143.JPG"
+        },
+        {
+            url: "PIC_1387.JPG",
+            title: "",
+            description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
+            filename: "PIC_1387.JPG"
+        },
+        {
+            url: "PIC_1388.JPG",
+            title: "",
+            description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
+            filename: "PIC_1388.JPG"
+        },
+        {
+            url: "PIC_1389.JPG",
+            title: "",
+            description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
+            filename: "PIC_1389.JPG"
+        },
+        {
+            url: "PIC_1390.JPG",
+            title: "",
+            description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
+            filename: "PIC_1390.JPG"
+        },
+        {
+            url: "PIC_1391.JPG",
+            title: "",
+            description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
+            filename: "PIC_1391.JPG"
+        },
+        {
+            url: "PIC_1392.JPG",
+            title: "",
+            description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
+            filename: "PIC_1392.JPG"
+        },
+        {
+            url: "PIC_1358.JPG",
+            title: "",
+            description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
+            filename: "PIC_1358.JPG"
+        },
+        {
+            url: "",
+            title: "",
+            description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
+            filename: ""
+        },
+        {
+            url: "",
+            title: "",
+            description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
+            filename: ""
+        },
+        {
+            url: "",
+            title: "",
+            description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
+            filename: ""
+        },
+        {
+            url: "",
+            title: "",
+            description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
+            filename: ""
+        },
+        {
+            url: "",
+            title: "",
+            description: "Silahkan unduh foto jika anda memerlukan foto ini,hubungi admin website atau natpublish jika gambar ini keliru.",
+            filename: ""
+        },
+        
+        
+        
        
         // ... tambahkan foto lainnya ...
     ];
